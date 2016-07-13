@@ -1,0 +1,99 @@
+@import url(https://fonts.googleapis.com/css?family=Arimo);
+
+p {
+    font-family: 'Arimo', sans-serif;
+    line-height: 170%;
+}
+
+
+h2, h3 {
+    font-family: 'Arimo', sans-serif;
+    text-align: center;
+    color:#0643AD;
+}
+
+h1 {
+    font-family: 'Arimo', sans-serif;
+    color:#D90429;
+    margin-bottom: 2%;
+    margin-left: 5%;
+    
+}
+
+.btn-danger {
+    margin: 40px;
+    width: 40%;
+    background-color:#D90429;
+}
+
+
+.row {
+    margin: 5%;
+    margin-bottom: 7%;
+}
+
+.menu {
+    font-size: 130%;
+    padding-right: 150%;
+    text-align: center;
+    color:#EDF2F4;
+}
+
+.small {
+    color:#D90429;
+}
+
+a {
+    color:#EDF2F4;
+}
+
+a:link {
+color:#EDF2F4;    
+}
+
+a:hover {
+    text-decoration: none;
+    color:#EF1F95;
+}
+
+.contact:link {
+    color:#D90429;
+}
+.contact:visited {
+    color:gray;
+}
+.contact:hover {
+    color:#e60000;
+}
+.contact:active {
+    color:#D90429;
+}
+
+.resize {
+    width: 200px;
+    height: auto;
+    margin:auto;
+    margin:2%;
+}
+
+li {
+    list-style-type: none;
+}
+
+.col-md-5 {
+    background-color: rgba(255, 255, 255, 0.66);
+    margin-left:4%;
+    margin-right:4%;
+}
+
+.box {
+    background-color: #EDF2F4;
+}
+
+.blue {
+    color: #0643AD;
+}
+
+.navbar-default {
+    background-color:#2B2D42;
+}
