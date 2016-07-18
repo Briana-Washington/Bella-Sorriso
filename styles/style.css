@@ -97,3 +97,16 @@ li {
 .navbar-default {
     background-color:#2B2D42;
 }
+
+
+.move {
+   display: inline-block;
+   text-align:center;
+   margin-left: 10px;
+   margin: ;
+}
+.nav{
+    margin:0 auto ;
+    text-align:center ;
+    
+}
